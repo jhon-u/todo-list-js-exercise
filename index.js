@@ -19,14 +19,6 @@ const newTask = function(title, description) {
   return task;
 };
 
-//Prints out the provided task's details
-
-
-// Marks the provided task as completed
-
-
-
-
 // DRIVER CODE BELOW
 
 const task1 = newTask("Clean Cat Litter", "Take all the 💩 out of the litter box");
